@@ -2,7 +2,7 @@
 
 If you'd like to support the project, you can donate via Buy Me a Coffee:
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/alicele)
 
 ## Support this project
 
