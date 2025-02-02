@@ -15,11 +15,7 @@ If you'd like to support the development of this project, you can donate via Pay
 
 A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.
 
-## Installation
 
-You can install the package via Composer:
-
-composer require alicele1512/weareicers_payment
 
 ## Usage Example
 use WeareicersPayment\Helpers\PaymentHelper;
@@ -58,3 +54,10 @@ root/
 │       │   └── StripeGateway.php
 │       ├── Helpers/
 │       │   └── PaymentHelper.php# weareicers_payment
+
+## Installation
+
+You can install the package via Composer:
+
+```bash
+composer require alicele1512/weareicers_payment
