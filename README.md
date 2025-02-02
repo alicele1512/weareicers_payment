@@ -4,6 +4,13 @@ You can support this project by becoming a sponsor on GitHub:
 
 [![Sponsor](https://img.shields.io/badge/sponsor-GitHub-yellow.svg)](https://github.com/sponsors/alicele1512)
 
+## Donate
+
+If you'd like to support the development of this project, you can donate via PayPal:
+
+[![Donate with PayPal](https://www.paypalobjects.com/webstatic/mktg/logo/PP_logo_h_100x26.png)](https://www.paypal.me/alicele1512)
+
+
 # Weareicers Payment
 
 A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.
