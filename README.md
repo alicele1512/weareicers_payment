@@ -6,7 +6,6 @@ A payment processing library for various gateways like MoMo, Stripe, PayPal, and
 
 You can install the package via Composer:
 
-```bash
 composer require your-username/weareicers_payment
 
 ## Usage Example
@@ -23,6 +22,7 @@ if ($isValidAmount) {
     // Handle invalid amount
 }
 
+## Directory Structure
 
 root/
 ├── public_html/
@@ -34,14 +34,14 @@ root/
 │   ├── index.php
 ├── vendor/
 │   ├── weareicers_payment/
-│       ├── controllers/
+│       ├── Controllers/
 │       │   └── PaymentController.php
-│       ├── models/
+│       ├── Models/
 │       │   └── Payment.php
-│       ├── gateways/
+│       ├── Gateways/
 │       │   ├── PayPalGateway.php
 │       │   ├── MoMoGateway.php
 │       │   ├── CardGateway.php
 │       │   └── StripeGateway.php
-│       ├── helpers/
+│       ├── Helpers/
 │       │   └── PaymentHelper.php# weareicers_payment
