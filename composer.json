@@ -1,0 +1,21 @@
+{
+    "name": "your-username/weareicers_payment",
+    "description": "A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.",
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "^7.0"  // Example dependency, if you use Guzzle for HTTP requests
+    },
+    "autoload": {
+        "psr-4": {
+            "WeareicersPayment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alice Le",
+            "email": "weareicers@proton.me"
+        }
+    ],
+    "minimum-stability": "stable"
+}
