@@ -6,7 +6,7 @@ A payment processing library for various gateways like MoMo, Stripe, PayPal, and
 
 You can install the package via Composer:
 
-composer require your-username/weareicers_payment
+composer require alicele1512/weareicers_payment
 
 ## Usage Example
 use WeareicersPayment\Helpers\PaymentHelper;
