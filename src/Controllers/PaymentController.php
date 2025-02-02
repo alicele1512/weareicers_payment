@@ -1,9 +1,10 @@
 <?php
-// PaymentController.php
-include '../vendor/weareicers_payment/gateways/PayPalGateway.php';
-include '../vendor/weareicers_payment/gateways/MoMoGateway.php';
-include '../vendor/weareicers_payment/gateways/CardGateway.php';
-include '../vendor/weareicers_payment/gateways/StripeGateway.php';
+namespace WeareicersPayment\Controllers;
+
+use WeareicersPayment\Gateways\PayPalGateway;
+use WeareicersPayment\Gateways\MoMoGateway;
+use WeareicersPayment\Gateways\CardGateway;
+use WeareicersPayment\Gateways\StripeGateway;
 
 class PaymentController {
     private $connect;
