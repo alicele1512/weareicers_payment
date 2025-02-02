@@ -9,6 +9,20 @@ You can install the package via Composer:
 ```bash
 composer require your-username/weareicers_payment
 
+## Usage Example
+use WeareicersPayment\Helpers\PaymentHelper;
+
+$trans_id = PaymentHelper::generateTransactionId();
+$formattedAmount = PaymentHelper::formatCurrency(100.0, 'USD');
+PaymentHelper::logTransaction("Transaction $trans_id: Payment of $formattedAmount initiated.");
+$isValidAmount = PaymentHelper::validateAmount(100.0);
+
+if ($isValidAmount) {
+    // Proceed with the payment processing
+} else {
+    // Handle invalid amount
+}
+
 
 root/
 ├── public_html/
