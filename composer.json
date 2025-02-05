@@ -2,7 +2,7 @@
     "name": "alicele1512/weareicers_payment",
     "description": "A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.",
     "type": "library",
-    "license": "MIT",  // Add your license here
+    "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
