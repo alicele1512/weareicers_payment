@@ -32,7 +32,6 @@ if ($isValidAmount) {
 You can install the package via Composer:
 ```bash
 composer require alicele1512/weareicers_payment:dev-main
-git clone https://github.com/alicele1512/weareicers_payment.git
 ```
 or
 ```bash
