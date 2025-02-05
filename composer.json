@@ -3,8 +3,7 @@
     "description": "A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.",
     "type": "library",
     "require": {
-        "php": ">=7.2",
-        "guzzlehttp/guzzle": "^7.0"  // Example dependency, if you use Guzzle for HTTP requests
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-4": {
@@ -14,8 +13,8 @@
     "authors": [
         {
             "name": "Alice Le",
-            "email": "weareicers@proton.me"
+            "email": "your-email@example.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
