@@ -43,4 +43,8 @@ if ($isValidAmount) {
 You can install the package via Composer:
 
 ```bash
+git clone https://github.com/alicele1512/weareicers_payment.git
+
+or
+```bash
 composer require alicele1512/weareicers_payment
