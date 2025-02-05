@@ -7,7 +7,7 @@ A payment processing library for various gateways like MoMo, Stripe, PayPal, and
 
 ## Donate
 If you'd like to support the project, please donate via:
-[![Buy Me a Coffee](https://img.shields.io/badge/buyme-a-Coffee-yellow.svg)](https://www.buymeacoffee.com/alicele)
+[![Buy Me a Coffee](https://img.shields.io/badge/buyme-aCoffee-yellow.svg)](https://www.buymeacoffee.com/alicele)
 [![Sponsor](https://img.shields.io/badge/sponsor-GitHub-yellow.svg)](https://github.com/sponsors/alicele1512)
 [![Sponsor](https://img.shields.io/badge/sponsor-Paypal-yellow.svg)](https://www.paypal.me/alicele1512)
 
