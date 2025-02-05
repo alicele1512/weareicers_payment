@@ -2,9 +2,6 @@
     "name": "alicele1512/weareicers_payment",
     "description": "A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.",
     "type": "library",
-    "require": {
-        "alicele1512/weareicers_payment": "^1.0"
-    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "repositories": [
