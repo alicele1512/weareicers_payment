@@ -3,8 +3,16 @@
     "description": "A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.",
     "type": "library",
     "require": {
-        "php": ">=7.2"
+        "alicele1512/weareicers_payment": "^1.0"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/alicele1512/weareicers_payment"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "WeareicersPayment\\": "src/"
@@ -13,8 +21,7 @@
     "authors": [
         {
             "name": "Alice Le",
-            "email": "your-email@example.com"
+            "email": "weareicers@proton.me"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
