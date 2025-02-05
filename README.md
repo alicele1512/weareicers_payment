@@ -3,7 +3,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment/blob/master/LICENSE)
 
 ## Donate
-If you'd like to support the project, you can donate via Buy Me a Coffee:
+If you'd like to support the project, you can donate via:
 [![Buy Me a Coffee](https://img.shields.io/badge/buyme-aCoffee-yellow.svg)](https://www.buymeacoffee.com/alicele)
 [![Sponsor](https://img.shields.io/badge/sponsor-GitHub-yellow.svg)](https://github.com/sponsors/alicele1512)
 [![Sponsor](https://img.shields.io/badge/sponsor-Paypal-yellow.svg)](https://www.paypal.me/alicele1512)
