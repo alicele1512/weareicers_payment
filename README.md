@@ -37,29 +37,6 @@ if ($isValidAmount) {
     // Handle invalid amount
 }
 
-## Directory Structure
-
-root/
-├── public_html/
-│   ├── core/
-│   │   ├── db.php
-│   │   ├── functions.php
-│   ├── config/
-│   ├── checkout.php
-│   ├── index.php
-├── vendor/
-│   ├── weareicers_payment/
-│       ├── Controllers/
-│       │   └── PaymentController.php
-│       ├── Models/
-│       │   └── Payment.php
-│       ├── Gateways/
-│       │   ├── PayPalGateway.php
-│       │   ├── MoMoGateway.php
-│       │   ├── CardGateway.php
-│       │   └── StripeGateway.php
-│       ├── Helpers/
-│       │   └── PaymentHelper.php# weareicers_payment
 
 ## Installation
 
