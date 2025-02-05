@@ -1,5 +1,5 @@
 {
-    "name": "your-username/weareicers_payment",
+    "name": "alicele1512/weareicers_payment",
     "description": "A payment processing library for various gateways like MoMo, Stripe, PayPal, and Card.",
     "type": "library",
     "require": {
