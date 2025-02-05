@@ -1,5 +1,5 @@
-[![Source Code](https://img.shields.io/badge/source-thephpleague/oauth2--client-blue.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment)
-[![Latest Version](https://img.shields.io/github/release/thephpleague/oauth2-client.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment/releases)
+[![Source Code](https://img.shields.io/badge/source-alicele1512/weareicers_payment-blue.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment)
+[![Latest Version](https://img.shields.io/github/release/alicele1512/weareicers_payment.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment/blob/master/LICENSE)
 
 ## Donate
