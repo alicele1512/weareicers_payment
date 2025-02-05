@@ -1,3 +1,7 @@
+[![Source Code](https://img.shields.io/badge/source-thephpleague/oauth2--client-blue.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment)
+[![Latest Version](https://img.shields.io/github/release/thephpleague/oauth2-client.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/alicele1512/weareicers_payment/blob/master/LICENSE)
+
 ## Donate
 If you'd like to support the project, you can donate via Buy Me a Coffee:
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/alicele)
